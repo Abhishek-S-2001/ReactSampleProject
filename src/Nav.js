@@ -10,7 +10,9 @@ function Nav() {
   return (
     <nav>
         <h3>
+            <Link style={navStyle} to='/'>
             My-Project
+            </Link>
         </h3>
         <ul className='nav-links'>
             <Link style={navStyle} to='/About'>

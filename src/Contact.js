@@ -4,7 +4,12 @@ import './App.css';
 function Contact() {
   return (
     <div>
-      Contact Page
+      <h3>Contact</h3>
+      <br /><br />
+        <p>
+          To Contact: <br />
+          <h5>Email : abhishek.shekhawat.1920@gmail.com</h5>
+        </p>
     </div>
   );
 }
